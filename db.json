@@ -1,17 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "Beidou", "author": "Darkalo" },
-    { "id": 2, "title": "Ganyu", "author": "Darkalo" },
-    { "id": 3, "title": "Sucrose", "author": "Darkalo" },
-    { "id": 4, "title": "Kequing", "author": "Darkalo" },
-    { "id": 5, "title": "Beidou", "author": "Darkalo" },
-    { "id": 6, "title": "Ganyu", "author": "Darkalo" },
-    { "id": 7, "title": "Sucrose", "author": "Darkalo" },
-    { "id": 8, "title": "Kequing", "author": "Darkalo" },
-    { "id": 9, "title": "Beidou", "author": "Darkalo" },
-    { "id": 10, "title": "Ganyu", "author": "Darkalo" },
-    { "id": 11, "title": "Sucrose", "author": "Darkalo" },
-    { "id": 12, "title": "Kequing", "author": "Darkalo" }
+    { "id": 1, "title": "INAUGURACIÓN DEL DOMO DEPORTIVO.", "author": "admin" ,"fecha": "febrero 16, 2018","descripcion":"La presidenta  del municipio de Felipe Carrillo Puerto Paoly Perera y la diputada federal Arlet Mólgora Glover hacen la entrega del  domo para la nuestro plantel. Iniciamos con el evento cívico correspondiente a las 8:30 am.","imagen":"http://cbta80.edu.mx/wp-content/uploads/2018/02/27858152_1627365907346862_4031141632398230795_n.jpg"},
+    { "id": 2, "title": "INICIAMOS CON MUCHO ÁNIMO LAS ACTIVIDADES ACADÉMICAS.", "author": "admin","fecha": "febrero 6, 2018","descripcion":"Semestre Febrero-Junio 2018.","imagen":"http://cbta80.edu.mx/wp-content/uploads/2018/02/27540802_1575872972481101_2313257353467777871_n.jpg" },
+    { "id": 3, "title": "PONENCIA «IMPORTANCIA DE LAS ABEJAS MELIPONAS EN LA POLINIZACIÓN DE CULTIVOS»", "author": "admin","fecha": "octubre 25, 2017","descripcion":"Hoy 25 de Octubre a las 10:50 horas se llevo a cabo la ponencia «Importancia de las abejas meliponas en la polinización de cultivos» impartida por el M.C. Orlando Cauich Muñoz en el auditorio del CBTa Núm. 80.","imagen":"http://cbta80.edu.mx/wp-content/uploads/2017/10/foto1.jpg"  },
+    { "id": 4, "title": "CONFERENCIAS DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO", "author": "admin","fecha": "","descripcion":"La Fiscalía General del Estado informa que con el fin de sensibilizar al estudiante en temas de importancia y de esta manera prevenir acciones delictivas, la Dirección de Participación Ciudadana, Prevención de Delitos y Servicios a la Comunidad a través de la vicefiscalía de la zona centro de Quintana Roo, impartió pláticas de prevención del","imagen":"http://cbta80.edu.mx/wp-content/uploads/2017/10/22154185_1850097238614713_1185464423686007069_n.jpg"} 
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
