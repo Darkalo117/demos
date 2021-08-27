@@ -9,7 +9,7 @@
     { "id": 1, "title": "Sistema", "author": "admin" ,"fecha": "febrero 16, 2018","descripcion":"SE aproximan las fechas de Inscripcion","imagen":"http://cbta80.edu.mx/wp-content/uploads/2018/02/27858152_1627365907346862_4031141632398230795_n.jpg"},
     { "id": 2, "title": "Tutor", "author": "admin","fecha": "febrero 6, 2018","descripcion":"Favor de entregar los trabajos atrasado","imagen":"http://cbta80.edu.mx/wp-content/uploads/2018/02/27540802_1575872972481101_2313257353467777871_n.jpg" },
     { "id": 3, "title": "Maestro Juan Carlos", "author": "admin","fecha": "octubre 25, 2017","descripcion":"Se a asignado un nuevo trabajo","imagen":"http://cbta80.edu.mx/wp-content/uploads/2017/10/foto1.jpg"  },
-    { "id": 4, "title": "Sistema", "author": "admin","fecha": "","descripcion":"Convocatoria de becas abierta","imagen":"http://cbta80.edu.mx/wp-content/uploads/2017/10/22154185_1850097238614713_1185464423686007069_n.jpg"} 
+    { "id": 4, "title": "Sistema", "author": "admin","fecha": "octubre 25, 2017","descripcion":"Convocatoria de becas abierta","imagen":"http://cbta80.edu.mx/wp-content/uploads/2017/10/22154185_1850097238614713_1185464423686007069_n.jpg"} 
   ],
   "profile": [{ "user": "Adriel","password":"adriel12345","nombre":"Adriel Aron Chimal","especialidad":"Informatica","sexo":"Masculino","tutor":"Juan Perez","telefono":"983 xxx xxxx","imagen":"https://scontent-mia3-1.xx.fbcdn.net/v/t1.6435-9/194550939_4197978796982797_3924754465271617497_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=42tz4TPb-pMAX_5Yg_Z&_nc_ht=scontent-mia3-1.xx&oh=9d223faad0b23e333a18bee4ee00c829&oe=614EFF0B"}]
 }
