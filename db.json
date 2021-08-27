@@ -8,5 +8,5 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": [{ "user": "Adriel","password":"adriel12345","especialidad":"Informatica","sexo":"Masculino","tutor":"Juan Perez","telefono":"983 xxx xxxx","imagen":"https://scontent-mia3-1.xx.fbcdn.net/v/t1.6435-9/194550939_4197978796982797_3924754465271617497_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=42tz4TPb-pMAX_5Yg_Z&_nc_ht=scontent-mia3-1.xx&oh=9d223faad0b23e333a18bee4ee00c829&oe=614EFF0B"}]
+  "profile": [{ "user": "Adriel","password":"adriel12345","nombre":"Adriel Aron Chimal","especialidad":"Informatica","sexo":"Masculino","tutor":"Juan Perez","telefono":"983 xxx xxxx","imagen":"https://scontent-mia3-1.xx.fbcdn.net/v/t1.6435-9/194550939_4197978796982797_3924754465271617497_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=42tz4TPb-pMAX_5Yg_Z&_nc_ht=scontent-mia3-1.xx&oh=9d223faad0b23e333a18bee4ee00c829&oe=614EFF0B"}]
 }
